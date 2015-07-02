@@ -1,2 +1,2 @@
 # DataIntelsPOC
-This repository for POC projects
+This repository is for POC projects
